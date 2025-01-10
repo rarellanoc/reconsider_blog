@@ -1,0 +1,62 @@
+
+var counter = 0;
+
+var comentario = ['¿QUÉ', 'PASA', 'CON', 'EL ', 'AVANCE ?', '      ', '                 '];
+
+function setup() {
+  // put setup code here
+
+	createCanvas(700,200);
+	background(252);
+	
+
+}
+
+function draw() {
+  // put drawing code here
+
+	background(252);
+	frameRate(10);
+
+	//stroke(20);
+	fill(20);
+	textAlign(LEFT);
+	textSize(20);
+	text('El estado de la', 100,100);
+	text('costanera Mar de',100, 130);
+	text('San pedro',100, 160);
+
+
+	fill(255,99,71)
+	noStroke()
+	rect(330,0,700-330,200);
+
+	textAlign(RIGHT);
+	textSize(70);
+
+
+	
+	fill(255);
+	text(comentario[counter], 680,170);
+
+	var largo_palabra = comentario[counter].length
+
+	if (frameCount % largo_palabra == 0){
+
+		counter = counter + 1;
+
+	}
+
+	
+
+	//console.log(counter);
+	//console.log(comentario.length);
+
+	if (counter >= comentario.length) {
+
+		
+		counter = 0;
+
+	}
+
+}

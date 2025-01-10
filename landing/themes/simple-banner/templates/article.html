@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BLOG </title>
+    <style> body {padding: 0; margin: 0;} </style>
+    <script src="theme/p5.min.js"></script>
+    <script src="theme/sketch.js"></script>
+  </head>
+  <body>
+
+	<div id='divinicial'></div>
+
+	<div id='container' style="padding: 20px;">
+
+
+ 	
+        <article>
+            <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+            <section>{{ article.content }}</section>
+            <footer>
+                <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
+                <address>By
+                    {% for author in article.authors %}
+                        <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                    {% endfor %}
+                </address>
+            </footer>
+        </article>
+
+
+</div>
+
+
+  </body>
+</html>
