@@ -11,4 +11,6 @@ Or learn more about [the author](https://www.amazon.com/stores/Rick-Arellano/aut
 
 Watch our [YouTube channel](https://www.youtube.com/@Ricks_river)
 
-Mailing subscriptions coming soon. Take care, and enjoy being in the Field. 
+For joining the circle <a data-formkit-toggle="53c2271d8d" href="https://tremendous-motivator-9505.kit.com/53c2271d8d">here</a>
+
+Take care, and enjoy being in the Field. 
