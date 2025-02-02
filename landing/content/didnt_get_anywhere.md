@@ -40,7 +40,7 @@ And if I play this in my mind, I start to get good at this. I start to notice nu
 
 And then, or another experience when you say it's: when you look at your cell phone, I felt relief and say that is a little more specific because the man starts to wonder why you feel relief, why that happens. And, and if that's true, if I nail it, the questions are more productive and the questions, the subsequent questions, like maybe I wasn't attracted to her in that particular moment.
 
-So. Oh, no wonder I was relieved, right? And sometimes it's the contrary. Sometimes she And I can't say when I blank, you blank. So, when I watch you having your headphones on, I can say that because, I, it's the contrary, it's the reverse. It's when you, and then I felt an experience, and we must be super rigid in this template because otherwise it's just projections and assessments and you are fat, you are pretty, you are simple statements that don't get us anywhere.
+So. Oh, no wonder I was relieved, right? And sometimes it's the contrary. Sometimes she And I can't say when I blank, you blank. So, when I watch you having your headphones on, I can't say that because, it's the contrary, it's the reverse. It's *when you*, and *then I* felt an experience, and we must be super rigid in this template because otherwise it's just projections and assessments and you are fat, you are pretty, you are simple statements that don't get us anywhere.
 
 So. This is a process of appreciation because it can be used with anyone, even with men. When you walk fast, or when you look at me, I feel a sense of opportunity. That's a vague statement because opportunity is not something I felt, so I corrected myself, I fixed the sentence, and I tried to nail it in the subsequent steps.
 
