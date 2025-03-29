@@ -2,13 +2,13 @@ Title: Didn’t get anywhere
 Date: 2025-01-27 07:20
 Category: Blog
 
-So I was debating with myself if go out or not, and I was calibrating the moment and, I'm super aware in these moments of: the world, and my desire to, if we break down desire could be a desire for experiences that are simple, which is certainly most attainable, but at the same time reuniting or amassing enough power to seize it, to things we can't reach because maybe if we aren't sure that we can, it's better to not do it at all. So I'm preparing, super aware of the environment and the difference between inside and outside. 
+So I was debating with myself if going out or not, and I was calibrating the moment and, I'm super aware in these moments of: the world, and my desire to, if we break down desire could be a desire for experiences that are simple, which is certainly most attainable, but at the same time reuniting or amassing enough power to seize it, to things we can't reach because maybe if we aren't sure that we can, it's better to not do it at all. So I'm preparing, super aware of the environment and the difference between inside and outside. 
 
 # The pick-up art should enrich your life, not define it.
 
 Then, I watch through my window, which has a veil, so they can't see me, but I can see them. So, two young ladies pass, and I'm drawn to them. And So, I said to myself, well, it's never a good idea to go out, only for that reason, only to meet women. Experts say that if you want to go to meet women, go to grab a book, and then you can also grab a telephone number out there.
 
-But if you go out only to meet women, it's putting, almost like putting the cart before the horse. And the saying is, the pick-up art should enrich your life, not define it. So, I bumped into these chicks.
+But if you go out only to meet women, it's putting, almost like putting the cart before the horse. And the saying is, the pick-up art should enrich your life, not define it. So, I'm drawn into these chicks.
 
 # Presence, let that be enough
 
