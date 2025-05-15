@@ -5,7 +5,7 @@ status: hidden
 
 Hello, Let’s work right away. 
 
-You are here for many reasons, but the core thing is that I can help you. Check the blog entries [here](https://rickarellano.work) 
+You are here for many reasons, but the core thing is that I can help you. Check the blog entries [here](https://rickarellano.work/legacyblog) 
 
 Or learn more about [me and my books](https://www.amazon.com/stores/Rick-Arellano/author/B08MCVSVZ2)
 
