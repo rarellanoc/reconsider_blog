@@ -27,7 +27,7 @@ We never explain how-to on the fly, we are trying to arrive at a correct solutio
 
 How are politics and society different? Things are valued strangely, outside anyone's grasp, but at the same time are not random. 
 
-# Authenticity does not care 'how-to'
+## Authenticity does not care 'how-to'
 
 How do we even think of authenticity as a thing we can learn how to, when **authenticity does not care how to at all**. 
 
@@ -37,7 +37,7 @@ So the question is why we don’t play authentically at every instance at every 
 
 Another problem, we cannot even decide a way to go if it is truly authentic, unless that authenticity includes a sense of direction. Then **integrity** is necessary, for defense purposes. We are not a trash item either. People will not mop the floor with us. 
 
-# The problem with integrity
+## The problem with integrity
 
 Integrity first is not the aim, it would be an asshole relationship with the world: I want this, I want that. 
 
