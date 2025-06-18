@@ -2,10 +2,8 @@ Title: Authentic this and that
 Date: 2025-05-25 12:27
 Category: Blog
 
-# Authentic this and that
 
-
-A football match is a game. A game that can’t be unauthentic, or it would be very dull if unauthentic. That’s not the issue of football, or maybe any finite game. 
+A football match is a game. A game that can’t be inauthentic, or it would be very dull if inauthentic. That’s not the issue of football, or maybe any finite game. 
 
 When does authenticity become relevant? In media, or in the transformation of a source. Say a mineral water. 
 
