@@ -1,3 +1,8 @@
+Title: Podcast
+Date: 2025-07-31 12:27
+Category: Blog
+
+
 I've just released a new podcast episode on soundcloud.
 
 Should I keep doing it? 
