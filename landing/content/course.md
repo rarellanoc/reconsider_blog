@@ -4,6 +4,6 @@ Category: Blog
 
 I've just released the new course 2025 on authenticity and quality. 
 
-Check it out on [our vimeo](https://vimeo.com/1099068243)
+Check it out on [youtube](https://youtu.be/rW0yggl0k40) - [43 min]. 
 
 Cheers. 
