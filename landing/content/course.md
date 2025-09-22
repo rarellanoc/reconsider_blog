@@ -1,6 +1,6 @@
 Title: A course
 Date: 2025-07-05 14:43
-Category: Blog
+status: hidden
 
 I've just released the new course 2025 on authenticity and quality. 
 
