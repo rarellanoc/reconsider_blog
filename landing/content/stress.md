@@ -2,8 +2,7 @@ Title: A new take on stress
 Date: 2023-12-07 16:20
 Category: Blog
 
-
-# A new take on stress
+A new take on stress
 
 *Note: This is a re-upload from 2023. Minor edits*
 
