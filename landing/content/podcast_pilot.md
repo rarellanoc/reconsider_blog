@@ -1,6 +1,6 @@
 Title: Podcast
 Date: 2025-07-31 12:27
-Category: Blog
+status: hidden
 
 
 I've just released a new podcast episode on soundcloud.
