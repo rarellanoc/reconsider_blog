@@ -50,6 +50,8 @@ And, we still need our desires. Awareness of: this is what I want, before any ex
 
 Authenticity can be the ultimate game, but also can be a rough one. 
 
+[Learn more](https://youtu.be/R1hg8dO_7JM)
+
 
 
 
