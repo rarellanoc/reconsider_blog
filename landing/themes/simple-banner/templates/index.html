@@ -7,31 +7,406 @@
     <style> body {padding: 0; margin: 0;} </style>
     <script src="theme/p5.min.js"></script>
     <script src="theme/sketch.js"></script>
-  </head>
-  <body>
 
-	<div id='divinicial'></div>
+    <style>
+        /* Reset and Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f9f5f0;
+            color: #333;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
 
-	<div id='container' style="padding: 20px;">
+        /* Header */
+        header {
+            position: relative;
+            height: 100vh;
+            background: 
+url('https://via.placeholder.com/1920x1080?text=Hero+Image') no-repeat 
+center center/cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: #fff;
+        }
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+        }
+        .hero-content {
+            position: relative;
+            z-index: 1;
+            padding: 20px;
+        }
+        .hero-content h1 {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        .hero-content p {
+            font-size: 1.5rem;
+            margin-bottom: 40px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            background: #c9a96e;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .btn:hover {
+            background: #b08d57;
+        }
+
+        /* Navigation */
+        nav {
+            position: absolute;
+            top: 0;
+            width: 100%;
+            padding: 20px 0;
+            z-index: 2;
+        }
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #fff;
+        }
+        .nav-menu {
+            list-style: none;
+            display: flex;
+        }
+        .nav-menu li {
+            margin-left: 30px;
+        }
+        .nav-menu a {
+            color: #fff;
+            font-size: 1rem;
+            text-transform: uppercase;
+            transition: color 0.3s;
+        }
+        .nav-menu a:hover {
+            color: #c9a96e;
+        }
+
+        /* Sections */
+        section {
+            padding: 80px 0;
+        }
+        h2 {
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 50px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* About Section */
+        #about {
+            background: #fff;
+        }
+        .about-content {
+            display: flex;
+            align-items: center;
+            gap: 50px;
+            flex-wrap: wrap;
+        }
+        .about-img {
+            flex: 1;
+            min-width: 300px;
+        }
+        .about-text {
+            flex: 1;
+            min-width: 300px;
+        }
+        .about-text p {
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+
+        /* Books Section */
+        #books {
+            background: #f4f0eb;
+        }
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+        .book-item {
+            background: #fff;
+            text-align: center;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+        .book-item:hover {
+            transform: translateY(-10px);
+        }
+        .book-item img {
+            margin-bottom: 20px;
+        }
+        .book-item h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        /* Blog Section */
+        #blog {
+            background: #fff;
+        }
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+        .blog-item {
+            background: #f9f5f0;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        .blog-item img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        .blog-content {
+            padding: 20px;
+        }
+        .blog-content h3 {
+            margin-bottom: 10px;
+        }
+        .blog-content p {
+            font-size: 0.9rem;
+        }
+
+        /* Contact Section */
+        #contact {
+            background: #f4f0eb;
+            text-align: center;
+        }
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        input, textarea {
+            padding: 15px;
+            border: 1px solid #ddd;
+            font-family: inherit;
+        }
+        textarea {
+            resize: vertical;
+            min-height: 150px;
+        }
+
+        /* Footer */
+        footer {
+            background: #333;
+            color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .social-links {
+            margin-top: 20px;
+        }
+        .social-links a {
+            color: #fff;
+            margin: 0 10px;
+            font-size: 1.2rem;
+            transition: color 0.3s;
+        }
+        .social-links a:hover {
+            color: #c9a96e;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero-content h1 {
+                font-size: 3rem;
+            }
+            .nav-menu {
+                flex-direction: column;
+                background: rgba(0,0,0,0.8);
+                position: absolute;
+                top: 100%;
+                left: 0;
+                width: 100%;
+                display: none;
+            }
+            .nav-menu.active {
+                display: flex;
+            }
+            .nav-menu li {
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="container nav-container">
+            <div class="logo">Rick Arellano</div>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#books">Books</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Header -->
+    <header id="home">
+        <div class="hero-content">
+            <h1>Rick Arellano</h1>
+            <p>Author & Storyteller</p>
+            <a href="#books" class="btn">Discover My Books</a>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About the Author</h2>
+            <div class="about-content">
+                <div class="about-img">
+                    <img 
+src="profile_rick.jpg" alt="Rick 
+Arellano">
+                </div>
+                <div class="about-text">
+                    <p>Former programmer and author of 'The Fragments of the Game.'</p>
+
+<p>Rick became aware of web technologies as a creative medium in 2008. After formal studies in programming, he was fully immersed in research teams, helping bootstrap companies and applications from the ground up.</p>
+
+<p>His current written work is characterized by a drive for social themes, mainly taken from the internet subcultures around man-woman dynamics. His most recent work is centered on authenticity, aided by previous theories and input from the art world.</p>
+                    <a href="#contact" class="btn">Get in Touch</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
- 	{% for article in articles_page.object_list %}
-        <article>
-            <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-            <section>{{ article.summary }}</section>
-            <footer>
-                <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
-                <address>By
-                    {% for author in article.authors %}
-                        <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-                    {% endfor %}
-                </address>
-            </footer>
-        </article>
-    {% endfor %}
 
 
-</div>
+
+
+
+
+ <!-- Blog Section -->
+    <section id="blog">
+        <div class="container">
+            <h2>Latest from the Blog</h2>
+            <div class="blog-grid">
+
+{% for article in articles_page.object_list %}
+
+                <div class="blog-item">
+                    <img 
+                    <div class="blog-content">
+                        <h3><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h3>
+                        <p>{{ article.summary }}</p>
+                        <a href="#">Read More</a>
+                    </div>
+                </div>
+                <div class="blog-item">
+
+ {% endfor %}
+           
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Books Section -->
+    <section id="books">
+        <div class="container">
+            <h2>My Books</h2>
+            <div class="books-grid">
+                <div class="book-item">
+                    <img 
+src="tfg.png" alt="Book 1">
+                    <h3>The Fragments Of The Game</h3>
+                    <p>A brief inquiry into the decline of the pickup artists communities </p>
+                    <a href="#" class="btn">Learn More</a>
+                </div>
+                <div class="book-item">
+                    <img 
+src="abb.png" alt="Book 2">
+                    <h3>The Authentic Building Blocks</h3>
+                    <p>The journey and influence of Authentic Relating in South America</p>
+                    <a href="#" class="btn">Learn More</a>
+                </div>
+                <div class="book-item">
+                    <img 
+src="wpa.png" alt="Book 3">
+                    <h3>Without Paying Attention</h3>
+                    <p>A fictional tale about artists and their seduction methods
+.</p>
+                    <a href="#" class="btn">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+   
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Rick Arellano. All Rights Reserved.</p>
+            <div class="social-links">
+                <a href="#">Facebook</a>
+                <a href="#">Twitter X</a>
+                <a href="#">Instagram</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Simple mobile menu toggle (if needed)
+        const menu = document.querySelector('.nav-menu');
+        // For demo, assuming no burger icon; add if needed
+    </script>
 
 	  <script async data-uid="53c2271d8d" src="https://tremendous-motivator-9505.kit.com/53c2271d8d/index.js"></script>
 
