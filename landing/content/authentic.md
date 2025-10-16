@@ -1,6 +1,7 @@
 Title: Authentic this and that
 Date: 2025-05-25 12:27
 Category: Blog
+status: hidden
 
 
 A football match is a game. A game that can’t be inauthentic, or it would be very dull if inauthentic. That’s not the issue of football, or maybe any finite game. 
