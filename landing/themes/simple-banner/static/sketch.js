@@ -22,15 +22,16 @@ function draw() {
 	//stroke(20);
 	fill(20);
 	textAlign(LEFT);
-	textSize(20);
+	textSize(18);
 	text('Hello', 100,100);
-	text('I will help you to pick-up women',100, 130);
+	text('I will help you to meet women on the street',100, 120)
+	text('and change the old wasy you use to approach',100, 140);	 
 	text('Rick Arellano',100, 160);
 
 
 	fill(255,99,71)
 	noStroke()
-	rect(540,0,1000,200);
+	rect(540,0,1000,250);
 
 	textAlign(RIGHT);
 	textSize(70);
