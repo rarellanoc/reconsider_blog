@@ -10,15 +10,167 @@
   </head>
   <body>
 
-	<div id='divinicial'></div>
-
-	<div id='container' style="padding: 20px;">
 
 
- 	
-        <article>
-            <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-            <section>{{ article.content }}</section>
+
+
+	  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rick Arellano - Blog</title>
+    <style>
+        /* Reset and Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f9f5f0;
+            color: #333;
+            line-height: 1.6;
+        }
+        a {
+            text-decoration: none;
+            color: #c9a96e;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 0;
+        }
+
+        /* Header */
+        header {
+            background: #fff;
+            padding: 20px 0;
+            border-bottom: 1px solid #ddd;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            color: #333;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #666;
+            font-size: 1rem;
+        }
+        nav a:hover {
+            color: #c9a96e;
+        }
+
+        /* Blog Section */
+        .blog-post {
+            background: #fff;
+            margin-bottom: 40px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        .blog-post img {
+            margin-bottom: 20px;
+        }
+        .blog-post h2 {
+            font-size: 2rem;
+            color: #333;
+            margin-bottom: 15px;
+        }
+        .blog-post p {
+            font-size: 1.1rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .blog-meta {
+            font-size: 0.9rem;
+            color: #999;
+            margin-bottom: 10px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #c9a96e;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .btn:hover {
+            background: #b08d57;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 40px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        .sidebar h3 {
+            font-size: 1.5rem;
+            color: #333;
+            margin-bottom: 15px;
+        }
+        .sidebar ul {
+            list-style: none;
+        }
+        .sidebar ul li {
+            margin-bottom: 10px;
+        }
+        .sidebar ul li a {
+            color: #666;
+        }
+        .sidebar ul li a:hover {
+            color: #c9a96e;
+        }
+
+        /* Footer */
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <h1>Rick Arellano</h1>
+            <nav>
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#books">Books</a>
+                <a href="#blog">Blog</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Blog Post -->
+        <div class="blog-post">
+            <div class="blog-meta">October 16, 2025 | Writing</div>
+
+			<article>
+            <h2><h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2></h2>
+            <section><p></p>{{ article.content }}</p></section>
             <footer>
                 <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
                 <address>By
@@ -28,6 +180,44 @@
                 </address>
             </footer>
         </article>
+			
+			
+			<a href="#" class="btn">Read More</a>
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <h3>Recent Posts</h3>
+            <ul>
+                <li><a href="#">Writing Tips for Aspiring Authors</a></li>
+                <li><a href="#">Behind the Scenes of "The Shadow's Edge"</a></li>
+                <li><a href="#">My Favorite Writing Spots</a></li>
+            </ul>
+            <h3>Categories</h3>
+            <ul>
+                <li><a href="#">Writing</a></li>
+                <li><a href="#">Travel</a></li>
+                <li><a href="#">Inspiration</a></li>
+            </ul>
+        </aside>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Rick Arellano. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+	<div id='divinicial'></div>
+
+	<div id='container' style="padding: 20px;">
+
+
+ 	
+        
 
 
 </div>
