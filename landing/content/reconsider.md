@@ -1,6 +1,7 @@
 Title: Reconsider V2
 Date: 2025-01-03 14:30
 Category: Blog
+status: hidden
 
 
 It's the first Thursday of the year and I start planning a quick trip, a 2-hour reservation spot for a small vineyard storage and conservations facility in Maule, Chile. Next day we arrive, and it was exactly what we expected. A fine care for the grapes, the colonial building and the facilities. In fact, even decorative details were just in place. And of course, the bottles of wine.
