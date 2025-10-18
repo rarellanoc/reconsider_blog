@@ -1,7 +1,8 @@
-Title: The world may be a welcoming place
+Title: ig
 Date: 2025-01-10 16:54
 status: hidden
 
+## The world may be a welcoming place
 
 Hello traveler, let’s work right away. 
 
