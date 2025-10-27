@@ -1,4 +1,4 @@
-Title: Didn’t get anywhere
+Title: The Art of Being Present
 Date: 2025-01-27 07:20
 Category: Blog
 
@@ -68,4 +68,8 @@ And this rush lasts like two blocks. I'm super high as kites, but composed, and 
 
 And that phrase, right? It didn't get anywhere. Why? What, what will be somewhere? Why do we measure things by that somewhere? I leave that question open and see you in the next one. Thanks for being here. Thanks for bearing with me this experience. If this was too slow, I apologize, but I hope it is instructive for you.
 
-Check the [books on amazon](https://www.amazon.com/stores/author/B08MCVSVZ2/allbooks), see you later.
+Watch TODAY the video format - Meditation [16 min] - [The Art of Being Present - vimeo.com](https://vimeo.com/1131113721?fl=ip&fe=ec) . 
+
+*This is it* – Rick Arellano 
+
+
