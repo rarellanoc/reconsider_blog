@@ -8,9 +8,11 @@ Hello traveler, let’s work right away.
 
 You are here for many reasons, but the core thing is that I can help you. Check the blog entries [here](https://rickarellano.work/legacyblog). 
 
-**Featured:[A new take on stress](https://rickarellano.work/a-new-take-on-stress)**
+**Featured: [The art of being present](https://rickarellano.work/the-art-of-being-present)**
 
 Learn more on [youtube](https://youtube.com/@rickarellano.fragments), I will teach you how to pick up. **subscribe** for later. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhnZ7pTCLTE?si=bxtPMZNB7ZibOkyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Or buy and read today [amazon](https://www.amazon.com/stores/Rick-Arellano/author/B08MCVSVZ2)
 
