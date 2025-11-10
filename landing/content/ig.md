@@ -12,7 +12,7 @@ You are here for many reasons, but the core thing is that I can help you. Check 
 
 Learn more on [youtube](https://youtube.com/@rickarellano.fragments), I will teach you how to pick up. **subscribe** for later. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhnZ7pTCLTE?si=bxtPMZNB7ZibOkyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="280" height="150" src="https://www.youtube.com/embed/ZhnZ7pTCLTE?si=bxtPMZNB7ZibOkyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Or buy and read today [amazon](https://www.amazon.com/stores/Rick-Arellano/author/B08MCVSVZ2)
 
