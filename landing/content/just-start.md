@@ -1,6 +1,7 @@
 Title: Just start
 Date: 2025-01-25
 Category: Blog
+status: hidden
 
 I was packing my portfolio, went to the courier, and paid the price to send it to one of my heroes. 
 
