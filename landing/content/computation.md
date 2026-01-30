@@ -1,7 +1,7 @@
 
 Title: computation
 Date: 2021-01-01 12:27
-Category: Essays
+Category: Blog
 
 Four years ago, the architects were there, in one of the places to be, Harvard. Michael Hays presents them, and they start doing what they always do, same slides, same projects (they re-arrange them according to the occasion), and then time to answer some questions. 
 
