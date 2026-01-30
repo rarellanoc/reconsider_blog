@@ -1,7 +1,7 @@
 
 Title: The eraser
 Date: 2019-01-01 12:27
-Category: Essays
+Category: Blog
 
 Computation, in the binary, trigram and hexagram sense [1] is true. Society is predictable, and runs in cycles. 
 
