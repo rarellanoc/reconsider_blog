@@ -1,6 +1,7 @@
 Title: The Art of Being Present
 Date: 2025-01-27 07:20
 Category: Blog
+status: hidden
 
 So I was debating with myself if going out or not, and I was calibrating the moment and, I'm super aware in these moments of: the world, and my desire to, if we break down desire could be a desire for experiences that are simple, which is certainly most attainable, but at the same time reuniting or amassing enough power to seize it, to things we can't reach because maybe if we aren't sure that we can, it's better to not do it at all. So I'm preparing, super aware of the environment and the difference between inside and outside. 
 
