@@ -1,5 +1,5 @@
-Title: The Eraser v3
-Date: 2015-01-01 12:27
+Title: The Eraser
+Date: 2019-01-01 12:27
 Category: Blog
 
 *from 2019*
