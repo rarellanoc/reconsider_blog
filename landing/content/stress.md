@@ -1,6 +1,7 @@
 Title: A new take on stress
 Date: 2023-12-07 16:20
 Category: Blog
+status: hidden
 
 A new take on stress
 
