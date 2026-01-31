@@ -100,7 +100,7 @@ I get back to the next part of the answer.
 
 “I what we do, for example in the Spatial Structure series, that’s an open series, so it’s an infinite series. on the other the variations are finite, so it’s a closed system. So it’s also an existential problem. What is finitude? Right?” 
 
-Hayes, a professor known for knowing a lot about Hegel and other philosophical concepts, nods at this point. Pezo closes with: “So it’s more conceptual than technical”.
+Hays, a professor known for knowing a lot about Hegel and other philosophical concepts, nods at this point. Pezo closes with: “So it’s more conceptual than technical”.
 
 If we put some time into this. Is more nuanced than my current abilities allow. And yet, a set of tentative axioms can be relevant for later. 
 
