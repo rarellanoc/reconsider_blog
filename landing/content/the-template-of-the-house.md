@@ -50,5 +50,5 @@ I've always felt a crippling disadvantage in front of adults. I still feel like 
 
 In the house all might be reactions. To our very past in the things we did to the objects around us. Even when nobody around resources will diminish, erosion will enter the door. The clock ticking again. And again irrelevant cause it doesn't distinguishes between inside and outside. 
 
-The old knows more than I do about the mechanisms of the world. The emancipated has the right to knock my door and say whatever pleasant thing that renders untrue of things change. And media knocking the door the same way. 
+The old knows more than I do about the mechanisms of the world. The emancipated has the right to knock my door and say whatever pleasant thing that renders untrue as things change. And media knocking the door the same way. 
 
