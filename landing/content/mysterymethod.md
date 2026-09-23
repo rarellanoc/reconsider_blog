@@ -40,9 +40,11 @@ many years ago. Uh, what are your props?
 
 Did you know that? [00:34:00] There's people you have met and put on Instagram-
 
-Yeah, of course ... and people who haven't. Of course, I, I try to lead. Yeah, yeah. I try to be a leader by, by using those platforms, but I n- I don't focus entirely on, on, on that.
+Yeah, of course ... and people who haven't. Of course, 
 
-As long as y- you recognize that if you have not met her on Instag- uh, like in real life-
+**Rick:**  I, I try to lead. Yeah, yeah. I try to be a leader by, by using those platforms, but I n- I don't focus entirely on, on, on that.
+
+**Mystery:** As long as y- you recognize that if you have not met her on Instag- uh, like in real life-
 
 **Rick:**  No, I, I, I-
 
@@ -52,9 +54,11 @@ As long as y- you recognize that if you have not met her on Instag- uh, like in 
 
 **Mystery:** trying to convince them, "Babe"- I, I ... No, I, I don't, I don't-
 
-Not a good idea ... I don't, uh, hit on Instagram, but I recognize the power to convey props or things like-
+Not a good idea ... 
 
-Fair, fair, fair.
+**Rick:**  I don't, uh, hit on Instagram, but I recognize the power to convey props or things like-
+
+**Mystery:** Fair, fair, fair.
 
 That's, that's the question.
 
