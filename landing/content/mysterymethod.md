@@ -28,9 +28,9 @@ many years ago. Uh, what are your props?
 
 **Rick:** Uh, a book about, uh, computational art. Uh, just, just my name and a couple pictures. Okay,
 
-yes. And you can put that on your coffee table. Yeah, yeah. You wouldn't bring it in field with you, but you can bring it on your coffee table. That's, that's taken from The Vault, that video series.
+**Mystery:** yes. And you can put that on your coffee table. Yeah, yeah. You wouldn't bring it in field with you, but you can bring it on your coffee table. That's, that's taken from The Vault, that video series.
 
-I, I built, uh, some props because of that. So that's-
+**Rick:** I, I built, uh, some props because of that. So that's-
 
 **Mystery:** Good to hear. Good to hear. Yeah.
 
