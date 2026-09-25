@@ -21,3 +21,5 @@ In the meantime I happen to be in a coffee shop, and see someone that I admire a
 As I get more into my head I lose connection with the boring present. Until a car enters though the exit, and I make a reaction. Like the powerful reaction saying 'gosh why did you break the rules'. Like the communal one. But I realize that the script got flipped on its head. And now I feel really seen. Curiously by the corner of an anonymous car, curiously by no one. 
 
 I keep walking. 
+
+[Learn more](https://rickarellano.work/video)
