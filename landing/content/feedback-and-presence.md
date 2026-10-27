@@ -2,7 +2,7 @@ Title: The last feedback and presence guide
 Date: 10-27-26
 Category: Blog
 
-## Escape the mundane
+Escape the mundane:
 
 Your comments, especially in social relationships, are falling flat with people. I saw you. You are distracted because you want a better job, or maybe you already excel in your current one. You're excellent in what you do, even if it's a small task, even if people don't consider it important. It's a job for you and pay the bills and everything good with that. I don't have to teach you how to be in public spaces, how to go out of the house. That's your job. 
 
